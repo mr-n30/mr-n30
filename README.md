@@ -14,7 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<object data="https://uki33s97oz4qxo95ce3w07lan1tvhk.burpcollaborator.net/object_test" width="600" height="400">
-    <embed src="https://uki33s97oz4qxo95ce3w07lan1tvhk.burpcollaborator.net/object_test" width="600" height="400"> </embed>
-    Error: Embedded data could not be displayed.
-</object>
+<embed src="https://uki33s97oz4qxo95ce3w07lan1tvhk.burpcollaborator.net/object_test" width=200 height=200 onerror="alert('URL invalid !!');" />
