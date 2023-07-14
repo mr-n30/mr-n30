@@ -1,2 +1,3 @@
-#👋
-[view more](http://localhost/)
+# 👋
+
+[open](http://localhost/)
